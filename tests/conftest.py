@@ -1029,10 +1029,10 @@ def expected_latest_cp_reponse():
             "sector": "Electricity Utilities",
             "geography": "United States of America",
             "latest_assessment_year": 2019,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "Innogy",
@@ -1040,10 +1040,10 @@ def expected_latest_cp_reponse():
             "sector": "Electricity Utilities",
             "geography": "Germany",
             "latest_assessment_year": 2019,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Below 2 Degrees"
         },
         {
             "company_id": "Anadarko Petroleum",
@@ -1051,10 +1051,10 @@ def expected_latest_cp_reponse():
             "sector": "Oil & Gas",
             "geography": "United States of America",
             "latest_assessment_year": 2019,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "Inner Mongolia Yili Industrial",
@@ -1062,10 +1062,10 @@ def expected_latest_cp_reponse():
             "sector": "Food Producers",
             "geography": "China",
             "latest_assessment_year": 2024,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "Orkla",
@@ -1073,10 +1073,10 @@ def expected_latest_cp_reponse():
             "sector": "Food Producers",
             "geography": "Norway",
             "latest_assessment_year": 2024,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "Freshpet",
@@ -1084,10 +1084,10 @@ def expected_latest_cp_reponse():
             "sector": "Food Producers",
             "geography": "United States of America",
             "latest_assessment_year": 2024,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "NH Foods",
@@ -1095,10 +1095,10 @@ def expected_latest_cp_reponse():
             "sector": "Food Producers",
             "geography": "Japan",
             "latest_assessment_year": 2024,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "Ingredion",
@@ -1106,10 +1106,10 @@ def expected_latest_cp_reponse():
             "sector": "Food Producers",
             "geography": "United States of America",
             "latest_assessment_year": 2024,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "Yakult Honsha",
@@ -1117,10 +1117,10 @@ def expected_latest_cp_reponse():
             "sector": "Food Producers",
             "geography": "Japan",
             "latest_assessment_year": 2024,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "Foshan Haitian Flavouring and Food",
@@ -1128,10 +1128,10 @@ def expected_latest_cp_reponse():
             "sector": "Food Producers",
             "geography": "China",
             "latest_assessment_year": 2024,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         }
     ]
 
@@ -1145,10 +1145,10 @@ def expected_company_cp_history_reponse():
             "sector": "Electricity Utilities",
             "geography": "United States of America",
             "latest_assessment_year": 2024,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "AES",
@@ -1156,10 +1156,10 @@ def expected_company_cp_history_reponse():
             "sector": "Electricity Utilities",
             "geography": "United States of America",
             "latest_assessment_year": 2023,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "AES",
@@ -1167,10 +1167,10 @@ def expected_company_cp_history_reponse():
             "sector": "Electricity Utilities",
             "geography": "United States of America",
             "latest_assessment_year": 2022,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "AES",
@@ -1178,10 +1178,10 @@ def expected_company_cp_history_reponse():
             "sector": "Electricity Utilities",
             "geography": "United States of America",
             "latest_assessment_year": 2021,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "AES",
@@ -1189,10 +1189,10 @@ def expected_company_cp_history_reponse():
             "sector": "Electricity Utilities",
             "geography": "United States of America",
             "latest_assessment_year": 2020,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         },
         {
             "company_id": "AES",
@@ -1200,10 +1200,10 @@ def expected_company_cp_history_reponse():
             "sector": "Electricity Utilities",
             "geography": "United States of America",
             "latest_assessment_year": 2019,
-            "carbon_performance_2025": "N/A",
-            "carbon_performance_2027": "N/A",
-            "carbon_performance_2035": "N/A",
-            "carbon_performance_2050": "N/A"
+            "carbon_performance_2025": "Not Aligned",
+            "carbon_performance_2027": "Not Aligned",
+            "carbon_performance_2035": "Not Aligned",
+            "carbon_performance_2050": "Not Aligned"
         }
     ]
 
@@ -1211,11 +1211,11 @@ def expected_company_cp_history_reponse():
 def expected_cp_alignment_reponse():
     """Expected response structure for latest CP alignment endpoint using AES as example"""
     return {
-  "2025": "N/A",
-  "2027": "N/A",
-  "2035": "N/A",
-  "2050": "N/A"
-    }   
+  "2025": "Not Aligned",
+  "2027": "Not Aligned",
+  "2035": "Not Aligned",
+  "2050": "Not Aligned"
+    }
 
 @pytest.fixture
 def expected_cp_comparison_reponse():
@@ -1224,10 +1224,10 @@ def expected_cp_comparison_reponse():
         "company_id": "AES",
         "current_year": 2022,
         "previous_year": 2020,
-        "latest_cp_2025": "N/A",
-        "previous_cp_2025": "N/A",
-        "latest_cp_2035": "N/A",
-        "previous_cp_2035": "N/A"
+        "latest_cp_2025": "Not Aligned",
+        "previous_cp_2025": "Not Aligned",
+        "latest_cp_2035": "Not Aligned",
+        "previous_cp_2035": "Not Aligned"
     }
 
 # ------------------------------------------------------------------------------
